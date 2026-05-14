@@ -2,7 +2,7 @@
 
 A small command-line utility built with [picocli](https://picocli.info/).
 
-This project was made for the **impact.com / SaaSquatch Java Software Engineer co-op** application. Running the CLI prints our company branding to the console.
+This project was made for the **impact.com / SaaSquatch Java Software Engineer co-op** application. Running the CLI prints the company branding to the console.
 
 ## Requirements
 
